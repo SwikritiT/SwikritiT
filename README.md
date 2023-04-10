@@ -7,11 +7,11 @@
   <a href="https://www.linkedin.com/in/swikriti-tripathi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/greywaren934/">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.goodreads.com/greywaren934">
-    <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" alt="Goodreads Badge"/>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff&style=for-the-badge" alt="Facebook Badge"/>
   </a>
 </div>
 
