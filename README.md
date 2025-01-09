@@ -40,9 +40,9 @@ I am a software developer from Nepal.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Wondering which test automation framework to choose? 🤔 Here&#39;s my detailed blog comparing Cypress and Playwright for speed and efficiency in local and CI environments! 🚀 #Cypress #Playwright #AutomationTesting&quot;](https://dev.to/swikritit/wondering-which-test-automation-framework-to-choose-heres-my-detailed-blog-comparing-cypress-b16)
+- [Comparing Test Execution Speed of Modern Test Automation Frameworks: Cypress vs Playwright](https://dev.to/swikritit/comparing-test-execution-speed-of-modern-test-automation-frameworks-cypress-vs-playwright-3hg8)
 - [Application Programming Interface &lpar;API&#39;s&rpar; : One Byte Explainer](https://dev.to/swikritit/application-programming-interface-apis-one-byte-explainer-5882)
 - [How to containerize your web app- a beginner-friendly tutorial for Dockerfile](https://dev.to/swikritit/how-to-containerize-your-web-app-a-beginner-friendly-tutorial-for-dockerfile-282e)
 - [Docker for Dummies- Introduction to docker](https://dev.to/swikritit/docker-for-dummies-introduction-to-docker-5h67)
-- [Debugging and Error Tracing in Playwright](https://dev.to/jankaritech/debugging-and-error-tracing-in-playwright-516o)
-- [Behavior Driven Development &lpar;BDD&rpar; using Playwright](https://dev.to/jankaritech/behavior-driven-development-bdd-using-playwright-n1o)
 <!-- BLOG-POST-LIST:END -->
